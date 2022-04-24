@@ -1,0 +1,13 @@
+C:\Users\fcoes\source\repos\TestAPI\BookService.Services\bin\Debug\netcoreapp3.1\BookService.Services.deps.json
+C:\Users\fcoes\source\repos\TestAPI\BookService.Services\bin\Debug\netcoreapp3.1\BookService.Services.dll
+C:\Users\fcoes\source\repos\TestAPI\BookService.Services\bin\Debug\netcoreapp3.1\BookService.Services.pdb
+C:\Users\fcoes\source\repos\TestAPI\BookService.Services\bin\Debug\netcoreapp3.1\BookService.Persistence.dll
+C:\Users\fcoes\source\repos\TestAPI\BookService.Services\bin\Debug\netcoreapp3.1\BookService.Persistence.pdb
+C:\Users\fcoes\source\repos\TestAPI\BookService.Services\obj\Debug\netcoreapp3.1\BookService.Services.csproj.AssemblyReference.cache
+C:\Users\fcoes\source\repos\TestAPI\BookService.Services\obj\Debug\netcoreapp3.1\BookService.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcoes\source\repos\TestAPI\BookService.Services\obj\Debug\netcoreapp3.1\BookService.Services.AssemblyInfoInputs.cache
+C:\Users\fcoes\source\repos\TestAPI\BookService.Services\obj\Debug\netcoreapp3.1\BookService.Services.AssemblyInfo.cs
+C:\Users\fcoes\source\repos\TestAPI\BookService.Services\obj\Debug\netcoreapp3.1\BookService.Services.csproj.CoreCompileInputs.cache
+C:\Users\fcoes\source\repos\TestAPI\BookService.Services\obj\Debug\netcoreapp3.1\BookService.Services.csproj.CopyComplete
+C:\Users\fcoes\source\repos\TestAPI\BookService.Services\obj\Debug\netcoreapp3.1\BookService.Services.dll
+C:\Users\fcoes\source\repos\TestAPI\BookService.Services\obj\Debug\netcoreapp3.1\BookService.Services.pdb

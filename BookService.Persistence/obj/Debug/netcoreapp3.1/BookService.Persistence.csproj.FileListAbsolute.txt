@@ -1,0 +1,13 @@
+C:\Users\fcoes\source\repos\TestAPI\BookService.Persistence\bin\Debug\netcoreapp3.1\BookService.Persistence.deps.json
+C:\Users\fcoes\source\repos\TestAPI\BookService.Persistence\bin\Debug\netcoreapp3.1\BookService.Persistence.runtimeconfig.json
+C:\Users\fcoes\source\repos\TestAPI\BookService.Persistence\bin\Debug\netcoreapp3.1\BookService.Persistence.runtimeconfig.dev.json
+C:\Users\fcoes\source\repos\TestAPI\BookService.Persistence\bin\Debug\netcoreapp3.1\BookService.Persistence.dll
+C:\Users\fcoes\source\repos\TestAPI\BookService.Persistence\bin\Debug\netcoreapp3.1\BookService.Persistence.pdb
+C:\Users\fcoes\source\repos\TestAPI\BookService.Persistence\obj\Debug\netcoreapp3.1\BookService.Persistence.csproj.AssemblyReference.cache
+C:\Users\fcoes\source\repos\TestAPI\BookService.Persistence\obj\Debug\netcoreapp3.1\BookService.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcoes\source\repos\TestAPI\BookService.Persistence\obj\Debug\netcoreapp3.1\BookService.Persistence.AssemblyInfoInputs.cache
+C:\Users\fcoes\source\repos\TestAPI\BookService.Persistence\obj\Debug\netcoreapp3.1\BookService.Persistence.AssemblyInfo.cs
+C:\Users\fcoes\source\repos\TestAPI\BookService.Persistence\obj\Debug\netcoreapp3.1\BookService.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\fcoes\source\repos\TestAPI\BookService.Persistence\obj\Debug\netcoreapp3.1\BookService.Persistence.dll
+C:\Users\fcoes\source\repos\TestAPI\BookService.Persistence\obj\Debug\netcoreapp3.1\BookService.Persistence.pdb
+C:\Users\fcoes\source\repos\TestAPI\BookService.Persistence\obj\Debug\netcoreapp3.1\BookService.Persistence.genruntimeconfig.cache
